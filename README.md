@@ -1,2 +1,2 @@
 # Powerbi-Enterprise-dashboards
-A collection of advanced Power BI dashboards designed with enterprise reporting standards — including drillthrough, drilldown, time intelligence, map visuals, KPI scorecards, and DAX-based insights.
+Enterprise-level Power BI dashboards covering Sales, HR, Logistics, Quality, Payments, Census Data, and Analytics Challenges. Showcasing advanced DAX, drillthrough, drilldown, time intelligence, and storytelling.
